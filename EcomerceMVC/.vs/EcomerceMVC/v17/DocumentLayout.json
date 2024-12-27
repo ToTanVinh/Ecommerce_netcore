@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|c:\\users\\lenovo\\source\\repos\\ecomercemvc\\ecomercemvc\\views\\cart\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|solutionrelative:ecomercemvc\\views\\cart\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|c:\\users\\lenovo\\source\\repos\\ecomercemvc\\ecomercemvc\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|solutionrelative:ecomercemvc\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|c:\\users\\lenovo\\source\\repos\\ecomercemvc\\ecomercemvc\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|solutionrelative:ecomercemvc\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|c:\\users\\lenovo\\source\\repos\\ecomercemvc\\ecomercemvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|solutionrelative:ecomercemvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|c:\\users\\lenovo\\source\\repos\\ecomercemvc\\ecomercemvc\\viewmodels\\checkoutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|solutionrelative:ecomercemvc\\viewmodels\\checkoutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|c:\\users\\lenovo\\source\\repos\\ecomercemvc\\ecomercemvc\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|solutionrelative:ecomercemvc\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|c:\\users\\lenovo\\source\\repos\\ecomercemvc\\ecomercemvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|solutionrelative:ecomercemvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|c:\\users\\lenovo\\source\\repos\\ecomercemvc\\ecomercemvc\\helpers\\mysetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|solutionrelative:ecomercemvc\\helpers\\mysetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|c:\\users\\lenovo\\source\\repos\\ecomercemvc\\ecomercemvc\\data\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|solutionrelative:ecomercemvc\\data\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|c:\\users\\lenovo\\source\\repos\\ecomercemvc\\ecomercemvc\\viewmodels\\cartmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|solutionrelative:ecomercemvc\\viewmodels\\cartmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|c:\\users\\lenovo\\source\\repos\\ecomercemvc\\ecomercemvc\\wwwroot\\chackout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|solutionrelative:ecomercemvc\\wwwroot\\chackout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|c:\\users\\lenovo\\source\\repos\\ecomercemvc\\ecomercemvc\\viewmodels\\carditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791E641B-9487-4C57-A069-772F34DB8B2D}|EcomerceMVC\\EcomerceMVC.csproj|solutionrelative:ecomercemvc\\viewmodels\\carditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "EcomerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "EcomerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAqwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T04:16:51.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "EcomerceMVC\\Controllers\\KhachHangController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "EcomerceMVC\\Controllers\\KhachHangController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowHwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:20:36.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\Views\\Cart\\Success.cshtml",
+              "RelativeDocumentMoniker": "EcomerceMVC\\Views\\Cart\\Success.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\Views\\Cart\\Success.cshtml",
+              "RelativeToolTip": "EcomerceMVC\\Views\\Cart\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T03:52:34.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MySetting.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\Helpers\\MySetting.cs",
+              "RelativeDocumentMoniker": "EcomerceMVC\\Helpers\\MySetting.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\Helpers\\MySetting.cs",
+              "RelativeToolTip": "EcomerceMVC\\Helpers\\MySetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:18:53.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "EcomerceMVC\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "EcomerceMVC\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T08:03:38.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "EcomerceMVC\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "EcomerceMVC\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T07:03:19.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "EcomerceMVC\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\Controllers\\CartController.cs",
+              "RelativeToolTip": "EcomerceMVC\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAqwH4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:59:35.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckoutVM.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\ViewModels\\CheckoutVM.cs",
+              "RelativeDocumentMoniker": "EcomerceMVC\\ViewModels\\CheckoutVM.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\ViewModels\\CheckoutVM.cs",
+              "RelativeToolTip": "EcomerceMVC\\ViewModels\\CheckoutVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:08:05.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\Data\\HoaDon.cs",
+              "RelativeDocumentMoniker": "EcomerceMVC\\Data\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\Data\\HoaDon.cs",
+              "RelativeToolTip": "EcomerceMVC\\Data\\HoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:29:37.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartModels.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\ViewModels\\CartModels.cs",
+              "RelativeDocumentMoniker": "EcomerceMVC\\ViewModels\\CartModels.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\ViewModels\\CartModels.cs",
+              "RelativeToolTip": "EcomerceMVC\\ViewModels\\CartModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:15:35.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CardItem.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\ViewModels\\CardItem.cs",
+              "RelativeDocumentMoniker": "EcomerceMVC\\ViewModels\\CardItem.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\ViewModels\\CardItem.cs",
+              "RelativeToolTip": "EcomerceMVC\\ViewModels\\CardItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:13:35.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "chackout.html",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\wwwroot\\chackout.html",
+              "RelativeDocumentMoniker": "EcomerceMVC\\wwwroot\\chackout.html",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\EcomerceMVC\\EcomerceMVC\\wwwroot\\chackout.html",
+              "RelativeToolTip": "EcomerceMVC\\wwwroot\\chackout.html",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAEgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-23T07:03:37.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
